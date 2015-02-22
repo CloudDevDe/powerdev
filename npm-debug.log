@@ -1,0 +1,51 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'rebuild', 'node-sass' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.33
+4 verbose node symlink /usr/bin/node
+5 info readInstalled object
+6 verbose rebuild path, id [ '/home/vagrant/Code/powerdev/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules/node-sass',
+6 verbose rebuild   'node-sass@2.0.1' ]
+7 silly rebuild set [ '/home/vagrant/Code/powerdev/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules/node-sass' ]
+8 info build /home/vagrant/Code/powerdev/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules/node-sass
+9 info preinstall node-sass@2.0.1
+10 verbose linkStuff [ false,
+10 verbose linkStuff   false,
+10 verbose linkStuff   false,
+10 verbose linkStuff   '/home/vagrant/Code/powerdev/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules' ]
+11 info linkStuff node-sass@2.0.1
+12 verbose linkBins node-sass@2.0.1
+13 verbose link bins [ { 'node-sass': 'bin/node-sass' },
+13 verbose link bins   '/home/vagrant/Code/powerdev/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules/.bin',
+13 verbose link bins   false ]
+14 verbose linkMans node-sass@2.0.1
+15 verbose rebuildBundles node-sass@2.0.1
+16 verbose rebuildBundles [ '.bin',
+16 verbose rebuildBundles   'chalk',
+16 verbose rebuildBundles   'cross-spawn',
+16 verbose rebuildBundles   'gaze',
+16 verbose rebuildBundles   'get-stdin',
+16 verbose rebuildBundles   'meow',
+16 verbose rebuildBundles   'mkdirp',
+16 verbose rebuildBundles   'mocha',
+16 verbose rebuildBundles   'nan',
+16 verbose rebuildBundles   'npmconf',
+16 verbose rebuildBundles   'object-assign',
+16 verbose rebuildBundles   'replace-ext',
+16 verbose rebuildBundles   'request',
+16 verbose rebuildBundles   'sass-graph',
+16 verbose rebuildBundles   'semver',
+16 verbose rebuildBundles   'shelljs' ]
+17 error Error: UNKNOWN, symlink '../node-sass/bin/node-sass'
+18 error If you need help, you may report this *entire* log,
+18 error including the npm and node versions, at:
+18 error     <http://github.com/npm/npm/issues>
+19 error System Linux 3.13.0-30-generic
+20 error command "/usr/bin/node" "/usr/bin/npm" "rebuild" "node-sass"
+21 error cwd /home/vagrant/Code/powerdev
+22 error node -v v0.10.33
+23 error npm -v 1.4.28
+24 error path ../node-sass/bin/node-sass
+25 error code UNKNOWN
+26 error errno -1
+27 verbose exit [ -1, true ]
