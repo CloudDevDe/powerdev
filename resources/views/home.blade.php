@@ -10,7 +10,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>Sleek | Responsive Landing page Theme</title>
+	<title>Wipsly | Easiest and Fatest way to install software</title>
 
 	<!-- Mobile Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -215,7 +215,7 @@
 		</div>
 	</section>
 	<!-- INFO BOXES / DUAL -->
-	
+
 
 	<!-- FAQ CONTENT -->
 	<div class="faq-content">
