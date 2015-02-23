@@ -180,7 +180,10 @@
 				<div class="col-md-4 ic-inner">
 					<img src="images/xtra/2.jpg" class="img-responsive" alt=""/>
 					<h4>Maecenas ut dapibus</h4>
-					<p>Sed commodo suscipit neque et suscipit. Cras feugiat porttitor libero sed finibus. Morbi elit nulla, rutrum eu nulla eu, lacinia tincidunt ligula. </p>
+
+
+
+
 				</div>
 				<div class="col-md-4 ic-inner">
 					<img src="images/xtra/3.jpg" class="img-responsive" alt=""/>
