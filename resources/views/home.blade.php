@@ -112,7 +112,7 @@
 					<a href="#">Learn More <i class="fa fa-angle-right"></i></a>
 				</div>
 				<div class="col-md-4 service-content sc3">
-					<span><i class="fa fa-envelope-o"></i></span>
+					<span><i class="fa fa-windows"></i></span>
 					<h4>WINDOWS Powershell</h4>
 					<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
 					<a href="#">Learn More <i class="fa fa-angle-right"></i></a>
@@ -215,277 +215,7 @@
 		</div>
 	</section>
 	<!-- INFO BOXES / DUAL -->
-
-	<!-- SCREENSHOTS -->
-	<section class="shots">
-		<div class="container">
-			<div class="content-head">
-				<h3>Check Product Screenshots</h3>
-				<p>Suspendisse egestas mattis rhoncus pellen tesque euismod erat at posuere molestie lorem lectus interdum augue</p>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<div class="shots-slider">
-						<div class="shots-thumb">
-							<a href="images/shots/1.jpg" class="prettyPhoto">
-								<img src="images/shots/1.jpg" class="img-responsive" alt=""/>
-							</a>
-						</div>
-						<div class="shots-thumb">
-							<a href="images/shots/2.jpg" class="prettyPhoto">
-								<img src="images/shots/2.jpg" class="img-responsive" alt=""/>
-							</a>
-						</div>
-						<div class="shots-thumb">
-							<a href="images/shots/3.jpg" class="prettyPhoto">
-								<img src="images/shots/3.jpg" class="img-responsive" alt=""/>
-							</a>
-						</div>
-						<div class="shots-thumb">
-							<a href="images/shots/4.jpg" class="prettyPhoto">
-								<img src="images/shots/4.jpg" class="img-responsive" alt=""/>
-							</a>
-						</div>
-						<div class="shots-thumb">
-							<a href="images/shots/5.jpg" class="prettyPhoto">
-								<img src="images/shots/5.jpg" class="img-responsive" alt=""/>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- SCREENSHOTS -->
-
-	<!-- ABOUT / INFO CONTENT -->
-	<div class="wrap-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-5">
-					<h2>Resposive design for <br>all devices</h2>
-					<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac facilisis ante. Praesent gravida tempus suscipit. Praesent vel sem id ligula malesuada vehicula at id orci. In sem quam, semper id fringilla sed, sodales a ante. Ut molestie a lorem in luctus. Suspendisse dignissim leo quis purus mollis fermentum.</p>
-					<div class="clearfix space10"></div>
-					<a href="#" class="btn-main btn-left btn-white">Learn more</a>
-				</div>
-				<div class="col-md-7">
-					<img class="img-responsive" src="images/2.png" alt="">
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- ABOUT / INFO CONTENT -->
-
-	<!-- ABOUT / INFO CONTENT -->
-	<div class="wrap-content wrap-content1">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-7">
-					<img class="img-responsive" src="images/3.png" alt="">
-				</div>
-				<div class="col-md-5">
-					<h2>Cross browser ipsum<br>compatible</h2>
-					<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac facilisis ante. Praesent gravida tempus suscipit. Praesent vel sem id ligula malesuada vehicula at id orci. In sem quam, semper id fringilla sed, sodales a ante. Ut molestie a lorem in luctus.</p>
-					<div class="clearfix space20"></div>
-					<a href="#" class="btn-main btn-left">Learn more</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- ABOUT / INFO CONTENT -->
-
-	<!-- TESTIMONIALS -->
-	<div class="testimonials">
-		<div class="container">
-			<div class="row">
-				<div id="quote-slider" class="owl-carousel owl-theme">
-					<div class="item">
-						<div class="col-md-7">
-							<div class="quote-info">
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-								<cite>- John Doe<span>ABC Company</span></cite>
-							</div>
-						</div>
-						<div class="col-md-5">
-							<img src="images/quote/1.png" class="img-responsive" alt=""/>
-						</div>
-					</div>
-					<div class="item">
-						<div class="col-md-5">
-							<img src="images/quote/2.png" class="img-responsive" alt=""/>
-						</div>
-						<div class="col-md-7">
-							<div class="quote-info">
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-								<cite class="cite-left">- Rebecca<span>XYZ Company</span></cite>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- TESTIMONIALS -->
-
-	<!-- NEWSLETTER -->
-	<div class="home-subscribe">
-		<div class="container">
-			<div class="row">
-				<h6>Subscribe to our newsletter to receive latest news & updates</h6>
-				<div class="intro-newsletter">
-					<form class="subscribe" action="php/subscribe.php" id="invite" method="POST">
-						<input type="email" class="e-mail" placeholder="Email Address here..." name="email" id="address" data-validate="validate(required, email)">
-						<button type="submit"><i class="fa fa-paper-plane-o"></i></button>
-					</form>
-					<span id="result"></span>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<!-- PRICING -->
-	<div class="pricing">
-		<div class="container">
-			<div class="row">
-				<div class="content-head content-head-lite">
-					<h3>Choose your best plan</h3>
-					<p>Suspendisse egestas mattis rhoncus pellen tesque euismod erat at posuere molestie lorem lectus interdum augue</p>
-				</div>
-			</div>
-			<div class="row">
-				<!-- Pricing Plan - 1 -->
-				<div class="col-md-3">
-					<div class="panel panel-default text-center">
-						<div class="panel-heading">
-							<strong>Basic</strong>
-						</div>
-						<div class="panel-body">
-							<h3 class="panel-title price">$9<span class="price-cents">99</span></h3>
-						</div>
-						<ul class="list-group">
-							<li class="list-group-item">5 Projects</li>
-							<li class="list-group-item">5 GB of Storage</li>
-							<li class="list-group-item">Up to 100 Users</li>
-							<li class="list-group-item">10 GB Bandwidth</li>
-							<li class="list-group-item">Security Suite</li>
-							<li class="list-group-item"><a class="btn-main" href="#">Sign Up Now!</a></li>
-						</ul>
-					</div>
-				</div>
-				<!-- Pricing Plan - 2 -->
-				<div class="col-md-3">
-					<div class="panel panel-default text-center">
-						<div class="panel-heading">
-							<strong>Standard</strong>
-						</div>
-						<div class="panel-body">
-							<h3 class="panel-title price">$19<span class="price-cents">99</span></h3>
-						</div>
-						<ul class="list-group">
-							<li class="list-group-item">10 Projects</li>
-							<li class="list-group-item">10 GB of Storage</li>
-							<li class="list-group-item">Up to 250 Users</li>
-							<li class="list-group-item">25 GB Bandwidth</li>
-							<li class="list-group-item">Security Suite</li>
-							<li class="list-group-item"><a class="btn-main" href="#">Sign Up Now!</a></li>
-						</ul>
-					</div>
-				</div>
-				<!-- Pricing Plan - 3 -->
-				<div class="col-md-3">
-					<div class="panel panel-default text-center">
-						<div class="panel-heading">
-							<strong>Premium <span class="label label-success">Best Value!</span></strong>
-						</div>
-						<div class="panel-body">
-							<h3 class="panel-title price">$29<span class="price-cents">99</span></h3>
-						</div>
-						<ul class="list-group">
-							<li class="list-group-item">Unlimited</li>
-							<li class="list-group-item">50 GB of Storage</li>
-							<li class="list-group-item">Up to 1000 Users</li>
-							<li class="list-group-item">100 GB Bandwidth</li>
-							<li class="list-group-item">Security Suite</li>
-							<li class="list-group-item"><a class="btn-main" href="#">Sign Up Now!</a></li>
-						</ul>
-					</div>
-				</div>
-				<!-- Pricing Plan - 4 -->
-				<div class="col-md-3">
-					<div class="panel panel-default text-center">
-						<div class="panel-heading">
-							<strong>Ultimate</strong>
-						</div>
-						<div class="panel-body">
-							<h3 class="panel-title price">$49<span class="price-cents">99</span></h3>
-						</div>
-						<ul class="list-group">
-							<li class="list-group-item">Unlimited</li>
-							<li class="list-group-item">150 GB of Storage</li>
-							<li class="list-group-item">Unlimited</li>
-							<li class="list-group-item">500 GB Bandwidth</li>
-							<li class="list-group-item">Security Suite</li>
-							<li class="list-group-item"><a class="btn-main" href="#">Sign Up Now!</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- PRICING -->
-
-	<!-- SERVICES / 2 -->
-	<section id="services2">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<i class="fa fa-laptop"></i>
-					<div class="sc2-inner">
-						<h4>Responsive Design</h4>
-						<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-support"></i>
-					<div class="sc2-inner">
-						<h4>Quick Support</h4>
-						<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-paper-plane-o"></i>
-					<div class="sc2-inner">
-						<h4>Mailchimp Newsletter</h4>
-						<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<i class="fa fa-pie-chart"></i>
-					<div class="sc2-inner">
-						<h4>Awesome Stats</h4>
-						<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-puzzle-piece"></i>
-					<div class="sc2-inner">
-						<h4>Easy update</h4>
-						<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<i class="fa fa-youtube-play"></i>
-					<div class="sc2-inner">
-						<h4>Video Support</h4>
-						<p>Morbi laoreet scelerisque orci finibus ullam corper quam semper utac aliquam magna quis</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- SERVICES / 2 -->
+	
 
 	<!-- FAQ CONTENT -->
 	<div class="faq-content">
@@ -556,17 +286,35 @@
 	</div>
 	<!-- FAQ CONTENT -->
 
+	<!-- NEWSLETTER -->
+	<div class="home-subscribe">
+		<div class="container">
+			<div class="row">
+				<h6>Subscribe to our newsletter to receive latest news & updates</h6>
+				<div class="intro-newsletter">
+					<form class="subscribe" action="php/subscribe.php" id="invite" method="POST">
+						<input type="email" class="e-mail" placeholder="Email Address here..." name="email" id="address" data-validate="validate(required, email)">
+						<button type="submit"><i class="fa fa-paper-plane-o"></i></button>
+					</form>
+					<span id="result"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
 	<!-- CLIENTS -->
 	<div id="clients">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
 					<ul>
-						<li><a href="#"><img src="images/clients/1.png" class="img-responsive" alt=""/></a></li>
-						<li><a href="#"><img src="images/clients/2.png" class="img-responsive" alt=""/></a></li>
-						<li><a href="#"><img src="images/clients/3.png" class="img-responsive" alt=""/></a></li>
-						<li><a href="#"><img src="images/clients/4.png" class="img-responsive" alt=""/></a></li>
-						<li><a href="#"><img src="images/clients/6.png" class="img-responsive" alt=""/></a></li>
+
 					</ul>
 				</div>
 			</div>
@@ -574,28 +322,8 @@
 	</div>
 	<!-- CLIENTS -->
 
-	<!-- WRAP INFO -->
-	<div class="wrap">
-		<div class="container">
-			<div class="col-md-12">
-				<h3>Get the product and enter the success</h3>
-				<p>Suspendisse at nisl libero. Ut sed vestibulum ex. Aliquam hendrerit nulla vel sem condimentum ultrices. Pellentesque sit amet augue mi. Nulla cursus auctor mi, vitae tincidunt enim sodales.</p>
-				<a href="#"><span data-hover="Register. Go Risk Free">Try our 30 days free trail</span></a>
-				<em>No credit card needed</em>
-			</div>
-		</div>
-	</div>
-	<!-- WRAP INFO -->
 
-	<!-- GOOGLE MAP -->
-	<div id="google-map">
-		<div class="map">
-			<div class="gmap">
-				<div id="map"></div>
-			</div>
-		</div>
-	</div>
-	<!-- GOOGLE MAP -->
+
 
 	<!-- FOOTER -->
 	<footer id="footer">
@@ -604,27 +332,16 @@
 
 				<!-- Contact Info -->
 				<div class="col-md-5" id="contact-info">
-					<h5>Contact <span>Info</span></h5>
+					<h5>Feed<span>back</span></h5>
 					<ul class="contact-info">
+
 						<li>
-							<i class="fa fa-phone"></i>
-							+1800 1234 5678
+							Do you like our Site? Or is a software missing?</br>
+							Please give us feedback!
 						</li>
-						<li>
-							<i class="fa fa-envelope-o"></i>
-							info@domain.com
-						</li>
-						<li>
-							<i class="fa fa-map-marker"></i>
-							#12, Some Street County 123456
-						</li>
+
 						<li>
 							<div class="f-social">
-								<a href="#" class="fa fa-facebook"></a>
-								<a href="#" class="fa fa-twitter"></a>
-								<a href="#" class="fa fa-google-plus"></a>
-								<a href="#" class="fa fa-dribbble"></a>
-								<a href="#" class="fa fa-instagram"></a>
 							</div>
 						</li>
 					</ul>
